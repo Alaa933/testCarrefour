@@ -7,6 +7,11 @@ import scala.io.Source
 
 class TopChiffreAffaire {
 
+  /**method which calculate the  turnover for each product for each store
+    *
+    * @param path to the magasins folder
+    * @param inputTransactionsFiles list which holds data as a collection of Transaction
+    */
 
   def chiffreAffaireParMagasin(path:String, inputTransactionsFiles:ListBuffer[Transaction]): Unit ={
     val path_input = getClass.getResource("/data/input/magasins")

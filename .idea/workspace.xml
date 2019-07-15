@@ -6,57 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea42c499-6d65-43aa-ae79-39bd055acd0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/test/ChiffreDaffaire.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/test/Transaction.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/test_carrefour_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/test_carrefour_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/output/top_100_ca_d0ahdaz2-zrzi-vptb-wlmv-dfbeza40ccks.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/output/top_100_ca_l4jr59xz-oee7-gbcx-urc3-aada7yccpzaf.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/output/top_100_ventes_d0ahdaz2-zrzi-vptb-wlmv-dfbeza40ccks_20190713.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data/output/top_100_ventes_l4jr59xz-oee7-gbcx-urc3-aada7yccpzaf_20190712.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/GenerateData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/test/GenerateData.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/TestCarrefour.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/test/TestCarrefour.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/TopCentVente.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/test/TopCentVente.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/test/TopChiffreAffaire.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/test/TopChiffreAffaire.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/com/test/DataGeneration.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/com/test/DataGeneration.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carrefour-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/carrefour-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carrefour-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/carrefour-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/ChiffreDaffaire$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/ChiffreDaffaire$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/ChiffreDaffaire.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/ChiffreDaffaire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/GenerateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/GenerateData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/TopCentVente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/TopCentVente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/TopChiffreAffaire.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/TopChiffreAffaire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/Transaction$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/Transaction$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/test/Transaction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/test/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/output/top_100_ca_d0ahdaz2-zrzi-vptb-wlmv-dfbeza40ccks.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/output/top_100_ca_l4jr59xz-oee7-gbcx-urc3-aada7yccpzaf.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/output/top_100_ventes_d0ahdaz2-zrzi-vptb-wlmv-dfbeza40ccks_20190713.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data/output/top_100_ventes_l4jr59xz-oee7-gbcx-urc3-aada7yccpzaf_20190712.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/com/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/test/ChiffreDaffaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/com/test/ChiffreDaffaire.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/test/GenerateData.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/com/test/GenerateData.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/test/TopCentVente.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/com/test/TopCentVente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/test/TopChiffreAffaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/com/test/TopChiffreAffaire.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/test/Transaction.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/com/test/Transaction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/com/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/com/test/test$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/lib/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/lib/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/lib/scheduler.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/lib/scheduler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/lib/template.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/lib/template.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/scaladocs/lib/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/scaladocs/lib/template.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.test.DataGeneration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.test.DataGeneration.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.scalatest.tools.DiscoverySuite-ae2897e9-890a-47f6-b62b-5d3e5657fef4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/DataGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/DataGeneration.class" afterDir="false" />
-    </list>
+    <list default="true" id="ea42c499-6d65-43aa-ae79-39bd055acd0c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/scala/com/test/DataGeneration.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#18#37#0" expanded="true" />
               </folding>
@@ -142,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/GenerateData.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -174,10 +124,10 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/test/ChiffreDaffaire.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/test/Transaction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/test/TestCarrefour.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/com/test/DataGeneration.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/test/TopChiffreAffaire.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/test/TopCentVente.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/test/GenerateData.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/com/test/DataGeneration.scala" />
       </list>
     </option>
   </component>
@@ -289,7 +239,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563194704355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563195990175" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37126437" />
@@ -444,7 +394,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22885571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -455,12 +404,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2580982" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2580982" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937434" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33019853" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33019853" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3291536" />
@@ -499,16 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/com/test/DataGeneration.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#18#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,6 +501,16 @@
           <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
           <folding>
             <element signature="e#18#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/test/DataGeneration.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#18#37#0" expanded="true" />
           </folding>
         </state>
       </provider>

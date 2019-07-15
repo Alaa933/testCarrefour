@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuite 
-errors="0" failures="0" hostname="alaa" name="com.test.DataGeneration" tests="0" time="0.031" timestamp="2019-07-11T14:53:01">
+errors="0" failures="0" hostname="alaa" name="com.test.DataGeneration" tests="0" time="0.015" timestamp="2019-07-15T11:23:11">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property 
@@ -53,7 +53,7 @@ errors="0" failures="0" hostname="alaa" name="com.test.DataGeneration" tests="0"
     <property name="java.specification.version" value="1.8"/>
     <property name="user.name" value="alaa"/>
     <property 
-    name="java.class.path" value="/home/alaa/IdeaProjects/carrefour/target/test-classes:/home/alaa/IdeaProjects/carrefour/target/classes:/home/alaa/.m2/repository/org/scala-lang/scala-library/2.12.0/scala-library-2.12.0.jar:/home/alaa/.m2/repository/org/scalatest/scalatest_2.12/3.0.8/scalatest_2.12-3.0.8.jar:/home/alaa/.m2/repository/org/scalactic/scalactic_2.12/3.0.8/scalactic_2.12-3.0.8.jar:/home/alaa/.m2/repository/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar:/home/alaa/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.jar">
+    name="java.class.path" value="/home/alaa/IdeaProjects/carrefour/target/test-classes:/home/alaa/IdeaProjects/carrefour/target/classes:/home/alaa/.m2/repository/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar:/home/alaa/.m2/repository/org/scalatest/scalatest_2.12/3.0.8/scalatest_2.12-3.0.8.jar:/home/alaa/.m2/repository/org/scalactic/scalactic_2.12/3.0.8/scalactic_2.12-3.0.8.jar:/home/alaa/.m2/repository/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar:/home/alaa/.m2/repository/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.jar">
 </property>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
